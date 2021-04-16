@@ -1,0 +1,13 @@
+/* Header */
+.header {
+  background: rgba(25, 28, 31, 0.8);
+}
+
+.nav-link {
+  color: #fff;
+  transition: 0.3s;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
